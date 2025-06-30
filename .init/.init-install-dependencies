@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/taskflow-62418-2ba808d3/todo_frontend"
+}
